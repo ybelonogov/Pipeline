@@ -1,0 +1,7 @@
+input file:=input.txt
+reader:=Reader
+output file:=output.txt
+writer:=Writer
+executors count:=2
+executor number 1:=Executor
+executor number 2:=Executor2
